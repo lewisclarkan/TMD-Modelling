@@ -1,8 +1,3 @@
-% A matlab program to plot the theoretical response of the building in the
-% 1A vibration lab.
-% Based on code written by Penny Cox, now maintained by Aidan Reilly.
-%  Tidied up by Jim Woodhouse October 2012
-%
 close all
 clear all
 
